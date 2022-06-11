@@ -17,5 +17,5 @@ for Windows
 docker run -d \
     -e URL=example.com \
     -e SCHEDULE="0 */1 * * *" \
-    ghcr.io/8loser/croncurl
+    ghcr.io/8loser/croncurl:main
 ```
