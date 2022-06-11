@@ -11,7 +11,6 @@ nextdns.io 定時 update linked IP
 `SCHEDULE` 排程, 可參考 https://crontab.guru/
 
 # 執行
-for Windows
 
 ```bash
 docker run -d \
